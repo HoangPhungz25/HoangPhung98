@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://media.giphy.com/media/dbqDd1Ox8TwfsoadPL/giphy.gif)
+![](https://media.giphy.com/media/HCa0MeQN7gchCCJJ7e/giphy.gif)
 <!--
 **HoangPhung98/HoangPhung98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
