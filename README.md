@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/HCa0MeQN7gchCCJJ7e/giphy.gif)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangPhung98)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangPhung98&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangPhung98&layout=compact&langs_count=10)
 
 <!--
