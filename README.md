@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://media.giphy.com/media/HCa0MeQN7gchCCJJ7e/giphy.gif)
+![](https://64.media.tumblr.com/72d1a613fd2adde0533fd48c3b8866fa/tumblr_npftx1wxGT1u97icho1_500.gif)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangPhung98&show_icons=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangPhung98&layout=compact&langs_count=10)
