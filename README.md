@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Interstellar](https://i.gifer.com/GOjH.gif)
+<img src="https://i.gifer.com/GOjH.gif" width="200" height="85" />
 <!--
 **HoangPhung98/HoangPhung98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
